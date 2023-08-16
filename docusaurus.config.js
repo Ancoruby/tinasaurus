@@ -125,6 +125,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
+        style: 'dark',
         title: docusaurusData.title || "",
         logo: {
           alt: docusaurusData?.logo?.alt
